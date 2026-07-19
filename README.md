@@ -1,7 +1,6 @@
 <div align="center">
 <img src="cat-text.png" alt="Catpuccino" width="400" />
 
-# Catpuccino
 ![POS System](https://img.shields.io/badge/POS-System-c9a87c?style=for-the-badge)
 ![Cafe Management](https://img.shields.io/badge/Cafe-Management-d4b896?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-e8d5b7?style=for-the-badge)
